@@ -1,0 +1,20 @@
+.item .exact-active {
+  background: #777676;
+  color: #f2f2f2;
+}
+.item .exact-active:hover {
+  background: #777676 !important;
+  color: #f2f2f2;
+}
+
+body ::-moz-selection {
+  /* Code for Firefox */
+  color: white;
+  background: #4f46e5;
+}
+body ::selection {
+  color: white;
+  background: #4f46e5;
+}
+
+/*사이드바 색상 */
